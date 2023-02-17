@@ -5,4 +5,4 @@ Calculator will also have a nice blueberry pie themed colorway that is easy on t
 
 
 
-Currently working on updating button input so that buttons work as intended.
+Currently working on updating button input 2/17
