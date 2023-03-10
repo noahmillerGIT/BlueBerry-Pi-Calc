@@ -8,9 +8,9 @@ Calculator will also have a nice blueberry pie themed colorway that is easy on t
 Currently working on updating button input 2/17
 
 
-Updated colorway and fixed issue with design 2/20
+Updated colorway and fixed issue with design 3/1
 
 
 
 
-Working on updating button input 3/7
+Working on updating button input 3/8
