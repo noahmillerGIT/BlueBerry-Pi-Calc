@@ -13,5 +13,7 @@ Updated colorway and fixed issue with design 3/1
 
 
 
-Working on updating button input 4/4                
+Working on updating button input 4/4      
+
+Added functionality to the pi button 4/11
 
