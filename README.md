@@ -9,11 +9,3 @@ Currently working on updating button input 2/17
 
 
 Updated colorway and fixed issue with design 3/1
-
-
-
-
-Working on updating button input 4/4      
-
-Added functionality to the pi button 4/11
-
